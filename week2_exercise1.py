@@ -1,6 +1,3 @@
-# Python-Projects
-These are my programs projects for the Python Language
-
 #!/usr/bin/env python
 """
 File Name: week2_exercise1.py
